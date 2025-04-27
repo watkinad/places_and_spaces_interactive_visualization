@@ -1,0 +1,113 @@
+"","name","coauthor","author_location","coauthor_location"
+"1","Adeline Chum","Laura Kurgan",NA,NA
+"2","Adeline Chum","Gregg Gonsalves",NA,NA
+"3","Adeline Chum","Dare Brawley",NA,NA
+"4","Adeline Chum","Jia Zhang",NA,NA
+"5","Adeline Chum","Suzan Iloglu",NA,NA
+"6","Adeline Chum","Thomas Thornhill",NA,NA
+"7","Analía Plaza","Raúl Sánchez González","Madrid, Spain",NA
+"8","Andrea Scharnhorst","Vyacheslav Tykhonov","Amsterdam, Netherlands",NA
+"9","Andrea Scharnhorst","Juliette Vion Dury","Amsterdam, Netherlands",NA
+"10","Andrea Scharnhorst","Yves Rozenholc","Amsterdam, Netherlands",NA
+"11","Bastian Herre","Pablo Arrigada",NA,NA
+"12","Beatriz Malveiro","Rita Costa",NA,NA
+"13","Chang Zhao","Peter Herman",NA,"Chicago, IL, USA"
+"14","Chloe Hudson Prock","Pedro",NA,NA
+"15","Chloe Hudson Prock","Gregory Gold",NA,NA
+"16","Chunming Hu","Fengli Xiao",NA,NA
+"17","Chunming Hu","Ye Sun",NA,NA
+"18","Chunming Hu","Yuankai Luo",NA,NA
+"19","Chunming Hu","Lei Xia",NA,NA
+"20","Chunming Hu","Weize Wu",NA,NA
+"21","Chunming Hu","Lei Shi",NA,NA
+"22","Daniela Coray","Niko Mcglashan","Boston, MA, USA",NA
+"23","Daniela Coray","Sarah Williams","Boston, MA, USA","Cambridge, MA, USA"
+"24","Daniela Coray","Kelly Fang","Boston, MA, USA","Cambridge, MA, USA"
+"25","Daniela Coray","Enrique Casillas","Boston, MA, USA","Cambridge, MA, USA"
+"26","Daniela Coray","Jari Prachasartta","Boston, MA, USA",NA
+"27","Daniela Coray","Jiajie Li","Boston, MA, USA",NA
+"28","Dare Brawley","Laura Kurgan",NA,NA
+"29","Dare Brawley","Gregg Gonsalves",NA,NA
+"30","Dare Brawley","Jia Zhang",NA,NA
+"31","Dare Brawley","Suzan Iloglu",NA,NA
+"32","Dare Brawley","Thomas Thornhill",NA,NA
+"33","Enrique Casillas","Niko Mcglashan","Cambridge, MA, USA",NA
+"34","Enrique Casillas","Sarah Williams","Cambridge, MA, USA","Cambridge, MA, USA"
+"35","Enrique Casillas","Kelly Fang","Cambridge, MA, USA","Cambridge, MA, USA"
+"36","Enrique Casillas","Jari Prachasartta","Cambridge, MA, USA",NA
+"37","Enrique Casillas","Jiajie Li","Cambridge, MA, USA",NA
+"38","Fengli Xiao","Ye Sun",NA,NA
+"39","Fengli Xiao","Yuankai Luo",NA,NA
+"40","Fengli Xiao","Lei Xia",NA,NA
+"41","Fengli Xiao","Weize Wu",NA,NA
+"42","Fengli Xiao","Lei Shi",NA,NA
+"43","Gregg Gonsalves","Laura Kurgan",NA,NA
+"44","Gregg Gonsalves","Jia Zhang",NA,NA
+"45","Gregg Gonsalves","Suzan Iloglu",NA,NA
+"46","Gregg Gonsalves","Thomas Thornhill",NA,NA
+"47","Gregory Gold","Pedro",NA,NA
+"48","Jari Prachasartta","Niko Mcglashan",NA,NA
+"49","Jari Prachasartta","Sarah Williams",NA,"Cambridge, MA, USA"
+"50","Jari Prachasartta","Kelly Fang",NA,"Cambridge, MA, USA"
+"51","Jari Prachasartta","Jiajie Li",NA,NA
+"52","Jia You","Sarah Crespi","Redwood City, CA, USA",NA
+"53","Jia Zhang","Laura Kurgan",NA,NA
+"54","Jia Zhang","Suzan Iloglu",NA,NA
+"55","Jia Zhang","Thomas Thornhill",NA,NA
+"56","Andrea Scharnhorst","Juliette Vion-Dury","Amsterdam, Netherlands",NA
+"57","Juliette Vion-Dury","Vyacheslav Tykhonov",NA,NA
+"58","Juliette Vion-Dury","Juliette Vion Dury",NA,NA
+"59","Juliette Vion-Dury","Yves Rozenholc",NA,NA
+"60","Kelly Fang","Niko Mcglashan","Cambridge, MA, USA",NA
+"61","Kelly Fang","Sarah Williams","Cambridge, MA, USA","Cambridge, MA, USA"
+"62","Jiajie Li","Kelly Fang",NA,"Cambridge, MA, USA"
+"63","Laura Kurgan","Suzan Iloglu",NA,NA
+"64","Laura Kurgan","Thomas Thornhill",NA,NA
+"65","Lei Shi","Ye Sun",NA,NA
+"66","Lei Shi","Yuankai Luo",NA,NA
+"67","Lei Shi","Lei Xia",NA,NA
+"68","Lei Shi","Weize Wu",NA,NA
+"69","Lei Xia","Ye Sun",NA,NA
+"70","Lei Xia","Yuankai Luo",NA,NA
+"71","Lei Xia","Weize Wu",NA,NA
+"72","Lutz Bornmann","Rudiger Mutz","Munich, Germany",NA
+"73","Lutz Bornmann","Moritz Stefaner","Munich, Germany","Lilienthal, Germany"
+"74","Lutz Bornmann","Robin Haunschild","Munich, Germany",NA
+"75","Lutz Bornmann","Mirko Clemente","Munich, Germany",NA
+"76","Felix De Moya Angeon","Lutz Bornmann",NA,"Munich, Germany"
+"77","Mirko Clemente","Rudiger Mutz",NA,NA
+"78","Mirko Clemente","Moritz Stefaner",NA,"Lilienthal, Germany"
+"79","Mirko Clemente","Robin Haunschild",NA,NA
+"80","Felix De Moya Angeon","Mirko Clemente",NA,NA
+"81","Moritz Stefaner","Rudiger Mutz","Lilienthal, Germany",NA
+"82","Moritz Stefaner","Robin Haunschild","Lilienthal, Germany",NA
+"83","Felix De Moya Angeon","Moritz Stefaner",NA,"Lilienthal, Germany"
+"84","Niko Mcglashan","Niko McGlashan",NA,NA
+"85","Niko McGlashan","Sarah Williams",NA,"Cambridge, MA, USA"
+"86","Daniela Coray","Niko McGlashan","Boston, MA, USA",NA
+"87","Kelly Fang","Niko McGlashan","Cambridge, MA, USA",NA
+"88","Enrique Casillas","Niko McGlashan","Cambridge, MA, USA",NA
+"89","Jari Prachasartta","Niko McGlashan",NA,NA
+"90","Jiajie Li","Niko McGlashan",NA,NA
+"91","Nikita Rokotyan","Olya Stukova","San Francisco, CA, USA",NA
+"92","Olya Stukova","Sergey Ryadovoy",NA,NA
+"93","Palm Jumnongrat","Supawich Orian",NA,NA
+"94","Pedro","Pedro Cruz",NA,NA
+"95","Robin Haunschild","Rudiger Mutz",NA,NA
+"96","Felix De Moya Angeon","Robin Haunschild",NA,NA
+"97","Lutz Bornmann","Rüdiger Mutz","Munich, Germany","Zürich, Switzerland"
+"98","Rudiger Mutz","Rüdiger Mutz",NA,"Zürich, Switzerland"
+"99","Moritz Stefaner","Rüdiger Mutz","Lilienthal, Germany","Zürich, Switzerland"
+"100","Robin Haunschild","Rüdiger Mutz",NA,"Zürich, Switzerland"
+"101","Mirko Clemente","Rüdiger Mutz",NA,"Zürich, Switzerland"
+"102","Felix De Moya Angeon","Rüdiger Mutz",NA,"Zürich, Switzerland"
+"103","Niko Mcglashan","Sarah Williams",NA,"Cambridge, MA, USA"
+"104","Jiajie Li","Sarah Williams",NA,"Cambridge, MA, USA"
+"105","Nikita Rokotyan","Sergey Ryadovoy","San Francisco, CA, USA",NA
+"106","Suzan Iloglu","Thomas Thornhill",NA,NA
+"107","Juliette Vion Dury","Vyacheslav Tykhonov",NA,NA
+"108","Vyacheslav Tykhonov","Yves Rozenholc",NA,NA
+"109","Weize Wu","Ye Sun",NA,NA
+"110","Weize Wu","Yuankai Luo",NA,NA
+"111","Ye Sun","Yuankai Luo",NA,NA
+"112","Juliette Vion Dury","Yves Rozenholc",NA,NA
